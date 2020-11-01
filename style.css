@@ -1,0 +1,13 @@
+h1 {
+    color: chocolate;
+}
+body {
+    background-color: floralwhite;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+input {
+    background-color: gold;
+    color: darkgreen;
+}
